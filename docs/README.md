@@ -7,3 +7,11 @@ actionText: About Me →
 actionLink: /about-me/
 footer: Made by Joel Brubaker 🤠
 ---
+
+## Featured Projects
+
+<projects />
+
+## My Favorite **Tools & Tech**
+
+<tech-stack />

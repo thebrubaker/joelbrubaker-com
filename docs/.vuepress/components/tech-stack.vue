@@ -44,18 +44,18 @@ export default {
           icon: "/logos/nodejs-1.svg",
           text: "Node.js",
         },
-        {
-          icon: "/logos/vs-code.svg",
-          text: "VS Code",
-        },
+        // {
+        //   icon: "/logos/vs-code.svg",
+        //   text: "VS Code",
+        // },
         {
           icon: "/logos/firebase.svg",
           text: "Firebase",
         },
-        {
-          icon: "/logos/jwt.svg",
-          text: "JWT",
-        },
+        // {
+        //   icon: "/logos/jwt.svg",
+        //   text: "JWT",
+        // },
         {
           icon: "/logos/nginx.svg",
           text: "Nginx",
@@ -64,18 +64,18 @@ export default {
           icon: "/logos/react.svg",
           text: "React",
         },
-        {
-          icon: "/logos/redis.svg",
-          text: "Redis",
-        },
-        {
-          icon: "/logos/sass.svg",
-          text: "Sass",
-        },
-        {
-          icon: "/logos/ubuntu.svg",
-          text: "Ubuntu",
-        },
+        // {
+        //   icon: "/logos/redis.svg",
+        //   text: "Redis",
+        // },
+        // {
+        //   icon: "/logos/sass.svg",
+        //   text: "Sass",
+        // },
+        // {
+        //   icon: "/logos/ubuntu.svg",
+        //   text: "Ubuntu",
+        // },
         {
           icon: "/logos/algolia.svg",
           text: "Algolia",
@@ -94,12 +94,12 @@ export default {
 <style lang="scss" scoped>
 ul {
   display: flex;
-  flex-wrap: wrap;
-  margin: 0;
-  padding: 0;
+  flex-flow: row wrap;
+  margin-left: -1rem;
+  margin-right: -1rem;
+  padding: 1rem 0;
   list-style: none;
   width: 100%;
-  margin-top: 20px;
   li {
     display: flex;
     flex-direction: column;
@@ -108,13 +108,17 @@ ul {
     text-transform: uppercase;
     font-size: 0.8em;
     font-weight: bold;
-    margin: 20px 0;
-    width: calc(100% / 2);
-    @media only screen and (min-width: 470px) {
-      width: calc(100% / 4);
+    flex: 1 0 calc(100% / 2);
+    box-sizing: border-box;
+    padding: 1rem 2rem;
+    @media only screen and (min-width: 500px) {
+      flex: 1 0 calc(100% / 3);
     }
-    @media only screen and (min-width: 1100px) {
-      width: calc(100% / 6);
+    @media only screen and (min-width: 600px) {
+      flex: 1 0 calc(100% / 4);
+    }
+    @media only screen and (min-width: 700px) {
+      flex: 1 0 calc(100% / 6);
     }
   }
   .icon-container {
