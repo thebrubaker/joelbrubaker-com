@@ -34,7 +34,7 @@ module.exports = {
     editLinks: false,
     docsDir: "",
     editLinkText: "",
-    lastUpdated: false,
+    lastUpdated: "Last Updated",
     algolia: {
       apiKey: "62821756a0d86466420279d42a3d31f2",
       indexName: "joelbrubaker",
