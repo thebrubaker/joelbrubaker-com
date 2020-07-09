@@ -329,3 +329,10 @@ The following resources are a collection of posts and guides that have helped me
 > This article gives me an opportunity to discuss two of my favorite things: responsive images and preload. As someone who was heavily involved in developing both of those features, I'm super excited to see them working together!
 
 [https://web.dev](https://web.dev/preload-responsive-images/)
+
+## GopherCon EU 2018: Peter Bourgon - Best Practices for Industrial Programming
+
+> Come to learn best (and worst) practices when writing Go in startup or corporate environments,
+> from someone who’s been doing it for a very long time.
+
+[https://www.youtube.com](https://www.youtube.com/watch?v=PTE4VJIdHPg)
