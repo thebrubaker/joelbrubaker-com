@@ -143,3 +143,99 @@ The following resources are a collection of posts and guides that have helped me
 > Spanner is a strongly-consistent, distributed, scalable database built by Google engineers to support some of Google's most critical applications. It takes core ideas from the database and distributed systems communities and expands on them in new ways. Cloud Spanner exposes this internal Spanner service as a publicly available service on Google Cloud Platform.
 
 [https://cloud.google.com/spanner](https://cloud.google.com/spanner/docs/whitepapers/life-of-reads-and-writes)
+
+## Five ways to paginate in Postgres, from the basic to the exotic
+
+> It may surprise you that pagination, pervasive as it is in web applications, is easy to implement inefficiently. In this article we’ll examine several methods of server-side pagination and discuss their tradeoffs when implemented in PostgreSQL. This article will help you identify which technique is appropriate for your situation, including some you may not have seen before which rely on physical clustering and the database stats collector.
+
+[https://www.citusdata.com](https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate/)
+
+## The SQL I Love <3. Efficient pagination of a table with 100M records
+
+> I am a huge fan of databases. I even wanted to make my own DBMS when I was in university. Now I work both with RDBMS and NoSQL solutions, and I am very enthusiastic with that. You know, there’s no Golden Hammer, each problem has own solution. Alternatively, a subset of solutions.
+
+[http://allyouneedisbackend.com](http://allyouneedisbackend.com/blog/2017/09/24/the-sql-i-love-part-1-scanning-large-table/)
+
+## Centralized and Externalized Logging Architecture for Modern Applications Using Rack Scale Flash Storage
+
+> Logging architecture is an important part of application health and performance monitoring in the modern distributed application architecture world. Hyper-scale deployment and automation solely depend on logging information to determine the status or behavior of applications, infrastructure, and networks.
+
+[https://dzone.com](https://dzone.com/articles/centralized-and-externalized-logging-architecture)
+
+## Node/Express: async code and error handling
+
+> Assume you want to write some backend using node/express. Then you realize that any backend is usually a queue of asynchronous operations, and there’re different ways to organize asynchronous code in node — you can use callbacks, promises or async/await. That’s not simple to choose. In this article I’ll describe my way, I’ll show how to write relatively short code with good error handling using both promises and async/await approach.
+
+[https://codeburst.io](https://codeburst.io/node-express-async-code-and-error-handling-121b1f0e44ba)
+
+## Introduction to Microservices
+
+> Microservices are currently getting a lot of attention: articles, blogs, discussions on social media, and conference presentations. They are rapidly heading towards the peak of inflated expectations on the Gartner Hype cycle. At the same time, there are skeptics in the software community who dismiss microservices as nothing new. Naysayers claim that the idea is just a rebranding of SOA. However, despite both the hype and the skepticism, the Microservices Architecture pattern has significant benefits – especially when it comes to enabling the agile development and delivery of complex enterprise applications.
+
+[https://www.nginx.com](https://www.nginx.com/blog/introduction-to-microservices/)
+
+## Testing Strategies in a Microservice Architecture
+
+> There has been a shift in service based architectures over the last few years towards smaller, more focussed "micro" services. There are many benefits with this approach such as the ability to independently deploy, scale and maintain each component and parallelize development across multiple teams. However, once these additional network partitions have been introduced, the testing strategies that applied for monolithic in process applications need to be reconsidered.
+
+[https://martinfowler.com](https://martinfowler.com/articles/microservice-testing/)
+
+## Understanding Microservices: From Idea To Starting Line
+
+> Over the last two months, I have invested most of my free time learning the complete ins-and-outs of what the microservices architecture really entails. After much reading, note taking, white-boarding, and many hours writing, I feel like I have achieved a level of understanding such that I am ready to take the first step. Allow me to share what I have learned from start to finish.
+
+[https://www.freecodecamp.org](https://www.freecodecamp.org/news/microservices-from-idea-to-starting-line-ae5317a6ff02/)
+
+## Node worker threads
+
+> The main reason against node is that it is single threaded and therefore cannot make use of all the machine resources, but with worker threads, we can create multiple threads to delegate work from the main thread and keep it free to process new requests faster.
+
+[https://medium.com/lazy-engineering](https://medium.com/lazy-engineering/node-worker-threads-b57a32d84845)
+
+## Cloud APIs - API Design Guide
+
+> This is a general design guide for networked APIs. It has been used inside Google since 2014 and is the guide that Google follows when designing Cloud APIs and other Google APIs. This design guide is shared here to inform outside developers and to make it easier for us all to work together.
+
+[https://cloud.google.com/apis/design/](https://cloud.google.com/apis/design/)
+
+## Cloud APIs - Standard Methods
+
+> This chapter defines the concept of standard methods, which are List, Get, Create, Update, and Delete. Standard methods reduce complexity and increase consistency. Over 70% of API methods in the Google APIs repository are standard methods, which makes them much easier to learn and use.
+
+[https://cloud.google.com/apis/design](https://cloud.google.com/apis/design/standard_methods)
+
+## The Ethics and Rationality of Voting
+
+> This entry focuses on six major questions concerning the rationality and morality of voting: Is it rational for an individual citizen to vote? Is there a moral duty to vote? Are there moral obligations regarding how citizens vote? Is it justifiable for governments to compel citizens to vote? Is it permissible to buy, trade, and sell votes? Who ought to have the right to vote, and should every citizen have an equal vote?
+
+[https://plato.stanford.edu](https://plato.stanford.edu/entries/voting/)
+
+## Best practices for enterprise organizations
+
+> This guide introduces best practices to help enterprise customers like you on your journey to Google Cloud. The guide is not an exhaustive list of recommendations. Instead, its goal is to help enterprise architects and technology stakeholders understand the scope of activities and plan accordingly. Each section provides key actions and includes links for further reading.
+
+[https://cloud.google.com](https://cloud.google.com/docs/enterprise/best-practices-for-enterprise-organizations)
+
+## VS Code can do that?!
+
+> All the best things about Visual Studio Code that nobody ever bothered to tell you
+
+[https://www.vscodecandothat.com](https://www.vscodecandothat.com/)
+
+## A successful Git branching model
+
+> This model was conceived in 2010, now more than 10 years ago, and not very long after Git itself came into being. In those 10 years, git-flow (the branching model laid out in this article) has become hugely popular in many a software team to the point where people have started treating it like a standard of sorts — but unfortunately also as a dogma or panacea.
+
+[https://nvie.com](https://nvie.com/posts/a-successful-git-branching-model/)
+
+## Continuous delivery workflows with the branch-per-issue model
+
+> As I discussed at length in "Super-powered continuous delivery with Git", using prolific branching in your continuous delivery workflow is a Good Thing™. It helps keep your most important branches in a clean and releasable state, allows developers to try new things without stepping on their teammates' toes, and, if done right, makes project tracking easier.
+
+[https://www.atlassian.com](https://www.atlassian.com/continuous-delivery/principles/workflows-with-feature-branching-and-gitflow)
+
+## Feature Toggles (aka Feature Flags)
+
+> Feature Toggles (often also refered to as Feature Flags) are a powerful technique, allowing teams to modify system behavior without changing code. They fall into various usage categories, and it's important to take that categorization into account when implementing and managing toggles. Toggles introduce complexity. We can keep that complexity in check by using smart toggle implementation practices and appropriate tools to manage our toggle configuration, but we should also aim to constrain the number of toggles in our system.
+
+[https://martinfowler.com](https://martinfowler.com/articles/feature-toggles.html)
