@@ -80,9 +80,13 @@ export default {
           icon: "/logos/algolia.svg",
           text: "Algolia",
         },
+        // {
+        //   icon: "/logos/aws.svg",
+        //   text: "AWS",
+        // },
         {
-          icon: "/logos/aws.svg",
-          text: "AWS",
+          icon: "/logos/netlify.svg",
+          text: "Netlify",
         },
       ],
     };
