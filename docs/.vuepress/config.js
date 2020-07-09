@@ -35,6 +35,10 @@ module.exports = {
     docsDir: "",
     editLinkText: "",
     lastUpdated: false,
+    algolia: {
+      apiKey: "62821756a0d86466420279d42a3d31f2",
+      indexName: "joelbrubaker",
+    },
     nav: [
       {
         text: "About Me",
