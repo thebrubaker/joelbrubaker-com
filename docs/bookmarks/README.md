@@ -239,3 +239,93 @@ The following resources are a collection of posts and guides that have helped me
 > Feature Toggles (often also refered to as Feature Flags) are a powerful technique, allowing teams to modify system behavior without changing code. They fall into various usage categories, and it's important to take that categorization into account when implementing and managing toggles. Toggles introduce complexity. We can keep that complexity in check by using smart toggle implementation practices and appropriate tools to manage our toggle configuration, but we should also aim to constrain the number of toggles in our system.
 
 [https://martinfowler.com](https://martinfowler.com/articles/feature-toggles.html)
+
+## Content Security Policy (CSP)
+
+> Content Security Policy (CSP) is an added layer of security that helps to detect and mitigate certain types of attacks, including Cross Site Scripting (XSS) and data injection attacks. These attacks are used for everything from data theft to site defacement to distribution of malware.
+
+[https://developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+
+## Quantum computing for the very curious
+
+> If humanity ever makes contact with alien intelligences, will those aliens possess computers? In science fiction, alien computers are commonplace. If that's correct, it means there is some way aliens can discover computers independently of humans. After all, we’d be very surprised if aliens had independently invented Coca-Cola or Pokémon or the Harry Potter books. If aliens have computers, it’s because computers are the answer to a question that naturally occurs to both human and alien civilizations.
+
+[https://quantum.country](https://quantum.country/qcvc)
+
+## Tips & tricks for using Google Vision API for text detection.
+
+> The Google Cloud Vision API enables developers to create vision based machine learning applications based on object detection, OCR, etc. without having any actual background in machine learning.
+
+[https://medium.com/searce](https://medium.com/searce/tips-tricks-for-using-google-vision-api-for-text-detection-2d6d1e0c6361)
+
+## Observations running 2 million headless sessions
+
+> We're excited to announce that we've recently just crossed over 2 million sessions served! That's millions of screenshots generated, PDF's printed, and websites tested. We've done just about everything you can think of with a headless browser.
+
+[https://docs.browserless.io](https://docs.browserless.io/blog/2018/06/04/puppeteer-best-practices.html)
+
+## Building And Releasing A Massively Multiplayer Online Game
+
+> Erlang Factory SF 2015 - Jamie Winsor -Building And Releasing A Massively Multiplayer Online Game
+
+[https://youtu.be](https://youtu.be/_i6n-eWiVn4)
+
+## Startup Library
+
+> Resources from Y Combinator about start-ups and raising money.
+
+[https://www.ycombinator.com](https://www.ycombinator.com/resources/)
+
+## How to Start a Startup
+
+> How to Start a Startup is a series of video lectures, initially given at Stanford in Fall 2014.
+
+[http://startupclass.samaltman.com](http://startupclass.samaltman.com/)
+
+## Fast and flexible observability with canonical log lines
+
+> Logging is one of the oldest and most ubiquitous patterns in computing. Key to gaining insight into problems ranging from basic failures in test environments to the most tangled problems in production, it’s common practice across all software stacks and all types of infrastructure, and has been for decades.
+
+[https://stripe.com](https://stripe.com/blog/canonical-log-lines)
+
+## No, disabling a button is not app logic.
+
+> User interface development tools are very powerful. They can be used to construct large and complex user interfaces, with only a relatively small amount of code written by an application developer. Despite the obvious problems associated with user interface development, little effort has been made to improve the situation. Any practitioner who has worked on large user interface projects will be familiar with many of the above characteristics, which are symptomatic of the way in which the software is constructed.
+
+[https://dev.to/davidkpiano](https://dev.to/davidkpiano/no-disabling-a-button-is-not-app-logic-598i)
+
+## Artificial Neural Networks
+
+> A quick dive into a cutting-edge computational method for learning.
+
+[https://brilliant.org](https://brilliant.org/courses/artificial-neural-networks/?tour=true)
+
+## Using ETL Staging Tables
+
+> Most traditional ETL processes perform their loads using three distinct and serial processes: extraction, followed by transformation, and finally a load to the destination. However, for some large or complex loads, using ETL staging tables can make for better performance and less complexity.
+
+[https://www.timmitchell.net](https://www.timmitchell.net/post/2017/06/14/etl-staging-tables/)
+
+## Build a 10 USD Raspberry Pi Tunnel Gateway
+
+> In this tutorial I'll show you how to build an Internet Gateway for your home network using a Raspberry Pi and a HTTPS tunnel for just 10 USD. You can achieve a similar effect of an Internet gateway by enabling port-forwarding on your home router, however there are downsides to this.
+
+[https://blog.alexellis.io](https://blog.alexellis.io/raspberry-pi-zero-tunnel-gateway/)
+
+## Salary Negotiation: Make More Money, Be More Valued
+
+> Imagine something a wee bit outside your comfort zone. Nothing scandalous: just something you don’t do often, don’t particularly enjoy, and slightly more challenging than “totally trivial.” Maybe reciting poetry while simultaneously standing on one foot.
+
+[https://www.kalzumeus.com](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+
+## An Intro to Metrics Driven Development
+
+> One of the coolest things I have learned in the last year is how to constantly deliver value into production without causing too much chaos. In this post, I’ll explain the metrics-driven development approach and how it helped me to achieve that.
+
+[https://www.freecodecamp.org](https://www.freecodecamp.org/news/metrics-driven-development/)
+
+## Preloading responsive images
+
+> This article gives me an opportunity to discuss two of my favorite things: responsive images and preload. As someone who was heavily involved in developing both of those features, I'm super excited to see them working together!
+
+[https://web.dev](https://web.dev/preload-responsive-images/)
