@@ -52,7 +52,7 @@ Lead engineer at a growing healthcare management startup with a mission to incre
 ::: tip Competencies & Technology
 
 - Studio Management, POS System Integration, ANT-enabled devices
-- Laravel, React, Redux, Material Design, Algolia
+- Laravel, React, Redux, GCP, Algolia
   :::
 
 ### Tipsy Elves
@@ -67,6 +67,14 @@ Developed a custom e-commerce platform designed to serve 3M+ users and process m
 - Magento, Laravel, Vue.js, Vuex, Compute Engine, Cloud SQL, Cloud Load Balancer
   :::
 
-## My Favorite **Tools & Tech**
+### Rescue Social Change Group
 
-<tech-stack />
+**Integrated Marketing Specialist** May 2014 - Nov 2015
+
+Managed a team of developers, marketers, and designers launching digital public health campaigns across the country. Developed internal software tools for managing paid ad campaigns and social promotions.
+
+::: tip Competencies & Technology
+
+- Public Health, Paid Social, User Generated Contests, Web Design
+- Laravel, HTML, CSS, Facebook API, Google Apps Script
+  :::
