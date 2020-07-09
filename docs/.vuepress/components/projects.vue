@@ -2,7 +2,7 @@
   <card-row>
     <div class="card-row-item">
       <card
-        background="rgb(245, 242, 83)"
+        background="#455c7b"
         tag="Online Retail & Fulfillment"
         title="Tipsy Elves"
         actionText="Details Coming Soon"
@@ -15,7 +15,7 @@
     </div>
     <div class="card-row-item">
       <card
-        background="#455c7b"
+        background="#ac6c82"
         tag="Fitness Studio CRM"
         title="Pure Studio"
         actionText="Details Coming Soon"
