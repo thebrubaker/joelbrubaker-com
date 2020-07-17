@@ -332,7 +332,12 @@ The following resources are a collection of posts and guides that have helped me
 
 ## GopherCon EU 2018: Peter Bourgon - Best Practices for Industrial Programming
 
-> Come to learn best (and worst) practices when writing Go in startup or corporate environments,
-> from someone who’s been doing it for a very long time.
+> Come to learn best (and worst) practices when writing Go in startup or corporate environments, from someone who’s been doing it for a very long time.
 
 [https://www.youtube.com](https://www.youtube.com/watch?v=PTE4VJIdHPg)
+
+## Hexagonal Grids
+
+> This guide will cover various ways to make hexagonal grids, the relationships between different approaches, and common formulas and algorithms.
+
+[https://www.redblobgames.com](https://www.redblobgames.com/grids/hexagons/)
