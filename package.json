@@ -1,13 +1,13 @@
 {
   "name": "joelbrubaker.com",
-  "version": "0.0.1",
-  "description": "The personal site of Joel Brubaker",
+  "version": "1.0.0",
+  "description": "Hi there! I'm Joel Brubaker. I'm a software engineer based out of San Diego, California.",
   "main": "index.js",
   "authors": {
     "name": "Joel Brubaker",
     "email": "contact@joelbrubaker.com"
   },
-  "repository": "github.com/thebrubaker/joelbrubaker-com/joelbrubaker.com",
+  "repository": "github.com/thebrubaker/joelbrubaker-com",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
