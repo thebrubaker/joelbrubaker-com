@@ -22,6 +22,7 @@ module.exports = {
       "meta",
       { name: "apple-mobile-web-app-status-bar-style", content: "black" },
     ],
+    ["link", { rel: "stylesheet", href: "https://rsms.me/inter/inter.css" }],
   ],
 
   /**
@@ -34,7 +35,6 @@ module.exports = {
     editLinks: false,
     docsDir: "",
     editLinkText: "",
-    lastUpdated: "Last Updated",
     algolia: {
       apiKey: "62821756a0d86466420279d42a3d31f2",
       indexName: "joelbrubaker",
@@ -52,10 +52,6 @@ module.exports = {
       //   text: "Published Thoughts",
       //   link: "/published-thoughts/",
       // },
-      {
-        text: "LinkedIn",
-        link: "https://www.linkedin.com/in/joelbrubaker/",
-      },
       {
         text: "Medium",
         link: "https://medium.com/@joelbrubaker",

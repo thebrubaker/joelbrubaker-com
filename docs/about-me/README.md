@@ -12,8 +12,6 @@ I've worked on a variety of application architectures including stateless APIs, 
 
 ## Technology
 
-My curiosity extends across the tech stack. I have hands-on experience working across design, implementation, testing, cloud architecture and continuous deployment. I specifically have in-depth experience with the following technologies:
-
 PHP, Node.js, Go, Laravel, Nest.js, Vue.js, React, MySQL, PostgreSQL, Firebase, Redis, Docker, Kubernetes, AWS (EC2, RDS), GCP (Kubernetes Engine, Cloud Endpoints, Cloud Storage, Compute Engine, Cloud Run, Cloud Functions, PubSub, Cloud Build, Vision API, Google Drive, Apps Script, Monitoring), Headless Chrome, Auth0, Figma, Element UI, Facebook API, Stripe API
 
 ## Work Experience

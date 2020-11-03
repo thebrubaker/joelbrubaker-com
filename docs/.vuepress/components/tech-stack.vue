@@ -1,12 +1,23 @@
 <template>
-  <ul>
-    <li v-for="(tool, index) in list" :key="index">
-      <div class="icon-container">
-        <img :src="tool.icon" class="icon" width="50" />
+  <div>
+    <div class="grid grid-cols-2 gap-8 md:grid-cols-6 lg:grid-cols-5">
+      <div
+        v-for="(tool, index) in list"
+        :key="index"
+        class="col-span-1 flex flex-col items-center text-center justify-center md:col-span-2 lg:col-span-1"
+      >
+        <img
+          class="h-12 object-scale-down"
+          width="100"
+          :src="tool.icon"
+          :alt="tool.text"
+        />
+        <div class="uppercase mt-4 text-sm font-bold text-gray-600">
+          {{ tool.text }}
+        </div>
       </div>
-      {{ tool.text }}
-    </li>
-  </ul>
+    </div>
+  </div>
 </template>
 
 <script>
@@ -44,18 +55,18 @@ export default {
           icon: "/logos/nodejs-1.svg",
           text: "Node.js",
         },
-        // {
-        //   icon: "/logos/vs-code.svg",
-        //   text: "VS Code",
-        // },
+        {
+          icon: "/logos/vs-code.svg",
+          text: "VS Code",
+        },
         {
           icon: "/logos/firebase.svg",
           text: "Firebase",
         },
-        // {
-        //   icon: "/logos/jwt.svg",
-        //   text: "JWT",
-        // },
+        {
+          icon: "/logos/jwt.svg",
+          text: "JWT",
+        },
         {
           icon: "/logos/nginx.svg",
           text: "Nginx",
@@ -64,26 +75,26 @@ export default {
           icon: "/logos/react.svg",
           text: "React",
         },
-        // {
-        //   icon: "/logos/redis.svg",
-        //   text: "Redis",
-        // },
-        // {
-        //   icon: "/logos/sass.svg",
-        //   text: "Sass",
-        // },
-        // {
-        //   icon: "/logos/ubuntu.svg",
-        //   text: "Ubuntu",
-        // },
+        {
+          icon: "/logos/redis.svg",
+          text: "Redis",
+        },
+        {
+          icon: "/logos/sass.svg",
+          text: "Sass",
+        },
+        {
+          icon: "/logos/ubuntu.svg",
+          text: "Ubuntu",
+        },
         {
           icon: "/logos/algolia.svg",
           text: "Algolia",
         },
-        // {
-        //   icon: "/logos/aws.svg",
-        //   text: "AWS",
-        // },
+        {
+          icon: "/logos/aws.svg",
+          text: "AWS",
+        },
         {
           icon: "/logos/netlify.svg",
           text: "Netlify",
