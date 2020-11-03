@@ -22,7 +22,7 @@ PHP, Node.js, Go, Laravel, Nest.js, Vue.js, React, MySQL, PostgreSQL, Firebase, 
 
 Leading a team of more than seven engineers at a fast-paced healthcare management company. Working directly with the CEO to manage day-to-day operations of the technology team while implementing features to support growth.
 
-- Managed the growth of the application team from four to nine engineers over eight months
+- Expanded the app team from four to eleven members over twelve months including engineers, project managers, UI/UX designers and data experts
 - Accelerated feature delivery by implementing structured processes around planning, design, execution, code review and team-building
 - Improved time to release through containerization, an agile deployment pipeline, and automated testing
 - Advanced site reliability, recoverability and outage response time through instrumentation, monitoring and alerts
@@ -32,7 +32,7 @@ Leading a team of more than seven engineers at a fast-paced healthcare managemen
 
 **Senior Software Engineer, Full Stack** _Apr 2018 - Apr 2019_
 
-Worked with an excellent team of engineers to build out features, improve application reliability and performance, and extend security best practices. Led the adoption of a microservices architecture using Kubernetes, Node.js and gRPC.
+Worked with a talented team of engineers to build out features, improve application reliability and performance and extend security best practices. Led the adoption of a microservices architecture using Kubernetes, Node.js and gRPC.
 
 - Refactored and automated MediCal Eligibility workflow into containerized microservices deployed to GKE
 - Improved and automated fraud, waste & abuse detection through a comprehensive and customizable triggering engine
@@ -45,12 +45,6 @@ Worked with an excellent team of engineers to build out features, improve applic
 **Senior Software Engineer, Full Stack** _Aug 2017 - Apr 2018_
 
 Senior developer for a SaaS studio management platform. Implemented automated backend test coverage, integrated multi-tenant Algolia text search, built out class-scheduling features and implemented registration modal on the Pure Indoor Cycling B2C website.
-
-- Developed Algolia Search integration with multi-tenancy support
-- Integrated Facebook authentication on customer-facing site
-- Implemented admin components with React, Redux and Material Design
-- Led team's adoption of backend unit testing and integration testing
-- Implemented interactive API documentation with Postman
 
 ### Tipsy Elves
 
