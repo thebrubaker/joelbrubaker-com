@@ -20,7 +20,7 @@ PHP, Node.js, Go, Laravel, Nest.js, Vue.js, React, MySQL, PostgreSQL, Firebase, 
 
 **Lead Software Engineer** _Apr 2019 - Present_
 
-Led a team of more than seven engineers at a fast-paced healthcare management company. Worked directly with the CEO to manage day-to-day operations of the technology team while implementing features to support growth.
+Leading a team of more than seven engineers at a fast-paced healthcare management company. Working directly with the CEO to manage day-to-day operations of the technology team while implementing features to support growth.
 
 - Managed the growth of the application team from four to nine engineers over eight months
 - Accelerated feature delivery by implementing structured processes around planning, design, execution, code review and team-building
