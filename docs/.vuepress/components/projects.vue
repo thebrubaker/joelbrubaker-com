@@ -1,25 +1,25 @@
 <template>
   <card-row>
     <div class="card-row-item">
-      <card
+    <card
         background="#455c7b"
-        tag="Online Retail & Fulfillment"
-        title="Tipsy Elves"
-        actionText="Details Coming Soon"
-        actionLink="#"
+        tag="Claims Processing Platform"
+        title="Premier Healthcare Management"
+        actionText="Visit Website"
+        actionLink="https://www.phmtech.com/"
       >
         <browser-frame>
-          <img class="project-image" src="/projects/tipsy.jpg"></img>
+          <img class="project-image" src="/projects/premier.png"></img>
         </browser-frame>
       </card>
     </div>
     <div class="card-row-item">
       <card
         background="#ac6c82"
-        tag="Fitness Studio CRM"
+        tag="Fitness Studio Management"
         title="Pure Studio"
-        actionText="Details Coming Soon"
-        actionLink="#"
+        actionText="Visit Website"
+        actionLink="https://purestudio.com/"
       >
         <browser-frame>
           <img class="project-image" src="/projects/pure.jpg"></img>

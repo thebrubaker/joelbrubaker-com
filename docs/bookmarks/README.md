@@ -4,7 +4,13 @@ sidebar: auto
 
 # Bookmarks
 
-The following resources are a collection of posts and guides that have helped me along the way. I've shared them in case they might be useful to other curious minds. They are listed in no particular order.
+The following resources are a collection of posts and guides that have helped me along the way. They are listed in no particular order.
+
+## Why Aren’t More Users More Happy With Our VMs?
+
+> In this first blog post of two, I’m going to show that programs running on VMs often don’t follow the simple performance patterns that nearly all of us expected.
+
+[https://tratt.net/laurie](https://tratt.net/laurie/blog/entries/why_arent_more_users_more_happy_with_our_vms_part_1.html)
 
 ## Embracing the Differences : Inside the Netflix API Redesign
 

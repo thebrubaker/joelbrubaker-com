@@ -125,7 +125,10 @@ footer {
   padding: 0 30px 30px;
 
   a {
-    color: darken(white, 20);
+    color: #cccccc;
+  }
+  a:hover {
+    color: #da727e;
   }
   a.no-link {
     pointer-events: none;
