@@ -66,7 +66,7 @@ Managed a team of developers, marketers, and designers launching digital public 
 
 ### Immersive Youth Marketing
 
-**Integrated Marketing Specialist** _Jun 2013 - May 2014_
+**Social Media Strategist & Web Developer** _Jun 2013 - May 2014_
 
 ### Bridgepoint Education
 

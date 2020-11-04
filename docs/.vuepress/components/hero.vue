@@ -163,10 +163,10 @@
                       User Interfaces
                     </h4>
                     <p class="mt-2 text-base leading-6 text-gray-500">
-                      I'm deeply familiar with reactive and composable view
-                      component frameworks such as Vue.js and React. I'm also
-                      comfortable switching between SASS stylesheets, styled
-                      components or Tailwind.css.
+                      I'm very familiar with reactive component frameworks such
+                      as Vue.js and React. I'm also comfortable switching
+                      between SASS stylesheets, styled components or
+                      Tailwind.css.
                     </p>
                   </div>
                 </div>
@@ -235,9 +235,9 @@
                       Databases & Data Pipelines
                     </h4>
                     <p class="mt-2 text-base leading-6 text-gray-500">
-                      I'm deeply familiar with SQL databases and ORMs. When
+                      I've worked extensively with SQL databases and ORMs. When
                       performance matters, I know how to eject from abstractions
-                      and use raw joins, sub queries, views and complex selects.
+                      to use raw joins, sub queries, views and complex selects.
                     </p>
                   </div>
                 </div>
