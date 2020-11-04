@@ -6,6 +6,12 @@ sidebar: auto
 
 The following resources are a collection of posts and guides that have helped me along the way. They are listed in no particular order.
 
+## All About Feature Scaling
+
+> Machine learning is like making a mixed fruit juice. If we want to get the best-mixed juice, we need to mix all fruit not by their size but based on their right proportion.
+
+[https://towardsdatascience.com](https://towardsdatascience.com/all-about-feature-scaling-bcc0ad75cb35)
+
 ## Why Aren’t More Users More Happy With Our VMs?
 
 > In this first blog post of two, I’m going to show that programs running on VMs often don’t follow the simple performance patterns that nearly all of us expected.
