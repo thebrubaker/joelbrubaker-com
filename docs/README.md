@@ -8,4 +8,16 @@ actionLink: /about-me/
 footer: Made by Joel Brubaker 🤠
 ---
 
-<hero />
+<section-hero />
+
+<section-overview />
+
+<section-contact />
+
+<section-featured />
+
+<section-quote />
+
+<section-tech />
+
+<section-footer />
