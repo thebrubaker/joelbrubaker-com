@@ -25,10 +25,12 @@
         class="mt-12 grid gap-5 max-w-lg mx-auto lg:grid-cols-3 lg:max-w-none"
       >
         <div class="flex flex-col rounded-lg shadow-lg overflow-hidden">
-          <div class="flex-shrink-0 p-8 bg-purple-300 overflow-hidden h-48">
+          <div
+            class="flex-shrink-0 p-8 bg-purple-300 overflow-hidden h-36 xl:h-48"
+          >
             <browser-frame>
               <img
-                class="h-full w-full object-scale-down object-top"
+                class="h-full w-full object-cover object-top"
                 src="/projects/premier.png"
                 alt=""
               />
@@ -61,10 +63,12 @@
           </div>
         </div>
         <div class="flex flex-col rounded-lg shadow-lg overflow-hidden">
-          <div class="flex-shrink-0 p-8 bg-red-300 overflow-hidden h-48">
+          <div
+            class="flex-shrink-0 p-8 bg-red-300 overflow-hidden h-36 xl:h-48"
+          >
             <browser-frame>
               <img
-                class="h-full w-full object-scale-down object-top"
+                class="h-full w-full object-cover object-top"
                 src="/projects/pure.jpg"
                 alt=""
               />
@@ -96,10 +100,12 @@
           </div>
         </div>
         <div class="flex flex-col rounded-lg shadow-lg overflow-hidden">
-          <div class="flex-shrink-0 p-8 bg-yellow-300 overflow-hidden h-48">
+          <div
+            class="flex-shrink-0 p-8 bg-yellow-300 overflow-hidden h-36 xl:h-48"
+          >
             <browser-frame>
               <img
-                class="h-full w-full object-scale-down object-top"
+                class="h-full w-full object-cover object-top"
                 src="/projects/tipsy.jpg"
                 alt=""
               />
