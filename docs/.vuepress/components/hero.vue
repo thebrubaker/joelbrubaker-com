@@ -66,7 +66,7 @@
       <div class="xl:absolute xl:inset-y-0 xl:right-0 xl:w-1/2">
         <img
           class="hidden h-56 w-full object-cover sm:h-72 md:h-96 xl:w-full xl:h-full xl:block"
-          src="/joel-brubaker-v2.jpg"
+          src="/pictures/joel-brubaker.jpg"
           alt=""
         />
       </div>
@@ -579,7 +579,7 @@
                 <div class="md:flex-shrink-0">
                   <img
                     class="mx-auto h-10 w-10 rounded-full"
-                    src="/art-longbottom.jpeg"
+                    src="/pictures/art-longbottom.jpeg"
                     alt=""
                   />
                 </div>

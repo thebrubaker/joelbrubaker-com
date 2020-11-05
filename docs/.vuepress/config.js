@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: "joelbrubaker.com",
+  title: "Joel Brubaker",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -16,7 +16,22 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    ["meta", { name: "theme-color", content: "#da727e" }],
+    ["link", { rel: "icon", href: "/favicon-64.png" }],
+    ["link", { rel: "manifest", href: "/manifest.json" }],
+    [
+      "link",
+      { rel: "apple-touch-icon", href: "/icons/apple-touch-icon-152x152.png" },
+    ],
+    ["link", { rel: "mask-icon", href: "/icon.svg", color: "#3eaf7c" }],
+    [
+      "meta",
+      {
+        name: "msapplication-TileImage",
+        content: "/icons/msapplication-icon-144x144.png",
+      },
+    ],
+    ["meta", { name: "msapplication-TileColor", content: "#000000" }],
+    ["meta", { name: "theme-color", content: "#1c64f2" }],
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
     [
       "meta",
@@ -31,6 +46,8 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
+    logo: "/icon-512.png",
+    smoothScroll: true,
     repo: "",
     editLinks: false,
     docsDir: "",
@@ -48,10 +65,6 @@ module.exports = {
         text: "Bookmarks",
         link: "/bookmarks/",
       },
-      // {
-      //   text: "Published Thoughts",
-      //   link: "/published-thoughts/",
-      // },
       {
         text: "Medium",
         link: "https://medium.com/@joelbrubaker",
@@ -65,32 +78,18 @@ module.exports = {
         link: "https://www.github.com/thebrubaker",
       },
     ],
-    sidebar: {
-      // "/published-thoughts/": [
-      //   {
-      //     title: "Published Thoughts",
-      //     collapsable: false,
-      //     sidebarDepth: 2,
-      //     children: [["", "Introduction"]],
-      //   },
-      // ],
-      // "/about-me/": [
-      //   {
-      //     title: "About Me",
-      //     collapsable: false,
-      //     sidebarDepth: 2,
-      //     children: [
-      //       ["", "Introduction"],
-      //       ["resume", "Work Experience"],
-      //       ["tech-stack", "Tech Stack"],
-      //     ],
-      //   },
-      // ],
-    },
   },
 
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
-  plugins: ["@vuepress/plugin-back-to-top", "@vuepress/plugin-medium-zoom"],
+  plugins: [
+    "@vuepress/pwa",
+    {
+      serviceWorker: true,
+      updatePopup: true,
+    },
+    "@vuepress/plugin-back-to-top",
+    "@vuepress/plugin-medium-zoom",
+  ],
 };
