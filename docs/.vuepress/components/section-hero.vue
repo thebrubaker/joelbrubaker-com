@@ -23,7 +23,7 @@
         >
           <img
             class="w-40 h-40 mx-auto mb-8 rounded-full md:h-60 md:w-60 xl:hidden"
-            src="/pictures/joel-head-shot.jpeg"
+            src="/pictures/joel-head-shot.jpg"
             alt="Joel Brubaker"
           />
           <div class="text-center xl:text-left">
@@ -63,11 +63,12 @@
         </main>
       </div>
     </div>
-    <div class="xl:absolute xl:inset-y-0 xl:right-0 xl:w-1/2">
+    <div class="xl:absolute bg-blue-500 xl:inset-y-0 xl:right-0 xl:w-1/2">
       <img
         class="hidden h-56 w-full object-cover sm:h-72 md:h-96 xl:w-full xl:h-full xl:block"
         src="/pictures/joel-brubaker.jpg"
-        alt=""
+        alt="Joel Brubaker"
+        loading="lazy"
       />
     </div>
   </section>

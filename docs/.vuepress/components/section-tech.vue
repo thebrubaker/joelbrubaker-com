@@ -53,6 +53,7 @@
               width="100"
               :src="tool.icon"
               :alt="tool.text"
+              loading="lazy"
             />
             <div class="uppercase mt-4 text-sm font-bold text-gray-600">
               {{ tool.text }}

@@ -31,8 +31,9 @@
             <browser-frame>
               <img
                 class="h-full w-full object-cover object-top"
-                src="/projects/premier.png"
-                alt=""
+                src="/projects/premier.jpg"
+                alt="Premier Healthcare Management"
+                loading="lazy"
               />
             </browser-frame>
           </div>
@@ -70,7 +71,8 @@
               <img
                 class="h-full w-full object-cover object-top"
                 src="/projects/pure.jpg"
-                alt=""
+                alt="Pure Studio"
+                loading="lazy"
               />
             </browser-frame>
           </div>
@@ -107,7 +109,8 @@
               <img
                 class="h-full w-full object-cover object-top"
                 src="/projects/tipsy.jpg"
-                alt=""
+                alt="Tipsy Elves"
+                loading="lazy"
               />
             </browser-frame>
           </div>

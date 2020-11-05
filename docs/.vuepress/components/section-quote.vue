@@ -59,8 +59,9 @@
               <div class="md:flex-shrink-0">
                 <img
                   class="mx-auto h-10 w-10 rounded-full"
-                  src="/pictures/art-longbottom.jpeg"
-                  alt=""
+                  src="/pictures/art-longbottom.jpg"
+                  alt="Arthur Longbottom"
+                  loading="lazy"
                 />
               </div>
               <div

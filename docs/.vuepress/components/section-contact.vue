@@ -83,6 +83,7 @@
               class="absolute inset-0 w-full h-full transform translate-x-6 translate-y-6 rounded-md object-cover object-left-top sm:translate-x-16 lg:translate-y-20"
               src="https://tailwindui.com/img/component-images/full-width-with-sidebar.jpg"
               alt="App screenshot"
+              loading="lazy"
             />
           </div>
         </div>
