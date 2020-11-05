@@ -26,6 +26,11 @@
           <main
             class="mt-10 mb-10 mx-auto max-w-screen-xl px-4 sm:mt-12 sm:px-6 md:mt-16 xl:mt-20 xl:px-8 xl:mt-28"
           >
+            <img
+              class="w-40 h-40 mx-auto mb-8 rounded-full md:h-60 md:w-60 xl:hidden"
+              src="/pictures/joel-head-shot.jpeg"
+              alt="Joel Brubaker"
+            />
             <div class="text-center xl:text-left">
               <h1
                 class="text-grey-600 text-4xl md:text-5xl tracking-tight leading-10 font-bold"
