@@ -37,7 +37,6 @@ module.exports = {
       "meta",
       { name: "apple-mobile-web-app-status-bar-style", content: "black" },
     ],
-    ["link", { rel: "stylesheet", href: "https://rsms.me/inter/inter.css" }],
   ],
 
   /**
@@ -92,4 +91,7 @@ module.exports = {
     "@vuepress/plugin-back-to-top",
     "@vuepress/plugin-medium-zoom",
   ],
+  postcss: {
+    plugins: [require("tailwindcss")("./tailwind.config.js")],
+  },
 };

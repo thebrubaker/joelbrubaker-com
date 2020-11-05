@@ -14,14 +14,15 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "@tailwindcss/ui": "^0.7.2",
     "@vuepress/plugin-back-to-top": "^1.7.1",
     "@vuepress/plugin-medium-zoom": "^1.7.1",
+    "@vuepress/plugin-pwa": "^1.7.1",
+    "autoprefixer": "^9.8.6",
     "node-sass": "^4.14.1",
     "sass-loader": "^9.0.3",
+    "tailwindcss": "^1.9.6",
     "vuepress": "^1.7.1"
   },
-  "dependencies": {
-    "@vuepress/plugin-pwa": "^1.7.1",
-    "tailwindcss": "^1.9.6"
-  }
+  "dependencies": {}
 }
