@@ -30,7 +30,7 @@
             <h1
               class="text-grey-600 text-4xl md:text-5xl tracking-tight leading-10 font-bold"
             >
-              Hi there! I'm Joel Brubaker.
+              Hi there! I'm Joel Brubaker
             </h1>
             <p
               class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-3xl sm:mx-auto md:mt-5 md:text-xl xl:mx-0"
