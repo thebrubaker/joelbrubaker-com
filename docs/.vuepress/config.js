@@ -80,6 +80,10 @@ module.exports = {
         text: "GitHub",
         link: "https://www.github.com/thebrubaker",
       },
+      {
+        text: "500px",
+        link: "https://500px.com/p/thebrubaker",
+      },
     ],
   },
 
