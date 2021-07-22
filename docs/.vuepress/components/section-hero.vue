@@ -35,7 +35,7 @@
             <p
               class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-3xl sm:mx-auto md:mt-5 md:text-xl xl:mx-0"
             >
-              I'm a Senior Software Engineer with Conduit Ventures. I help growth-stage startups ship code and scale teams.
+              I'm a Tech Lead with Conduit Ventures. I work with growth-stage startups to ship code and scale teams.
             </p>
             <div
               class="mt-5 sm:mt-8 sm:flex sm:justify-center xl:justify-start"
