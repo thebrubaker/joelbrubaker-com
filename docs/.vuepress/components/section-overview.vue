@@ -41,15 +41,15 @@
           <p
             class="text-base leading-6 text-blue-600 font-semibold tracking-wide uppercase"
           >
-            Full Stack Developer
+            Full Stack Engineer
           </p>
           <h3
             class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10"
           >
             Expertise Across User Interfaces, Web Servers, Data and Cloud
           </h3>
-          <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
-            My problem-solving capabilities extend across the tech stack.
+          <p class="mt-4 max-w-3xl text-xl leading-7 text-gray-500 lg:mx-auto">
+            My problem-solving capabilities extend across every layer of the tech stack
           </p>
         </div>
 

@@ -61,12 +61,12 @@ module.exports = {
     },
     nav: [
       {
-        text: "About Me",
-        link: "/about-me/",
-      },
-      {
         text: "Bookmarks",
         link: "/bookmarks/",
+      },
+      {
+        text: "About Me",
+        link: "https://www.linkedin.com/in/joelbrubaker/",
       },
       {
         text: "Medium",

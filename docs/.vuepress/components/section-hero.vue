@@ -19,7 +19,7 @@
         <div class="relative pt-6 px-4 sm:px-6 xl:px-8"></div>
 
         <main
-          class="mt-10 mb-10 mx-auto max-w-screen-xl px-4 sm:mt-12 sm:px-6 md:mt-16 xl:mt-20 xl:px-8 xl:mt-28"
+          class="mt-10 mb-10 mx-auto max-w-screen-xl px-4 sm:mt-12 sm:px-6 md:mt-16 xl:mt-60 xl:mb-32 xl:px-8 "
         >
           <img
             class="w-40 h-40 mx-auto mb-8 rounded-full md:h-60 md:w-60 xl:hidden"
@@ -35,18 +35,19 @@
             <p
               class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-3xl sm:mx-auto md:mt-5 md:text-xl xl:mx-0"
             >
-              I'm a Tech Lead with Conduit Ventures. I work with growth-stage startups to ship code and scale teams.
+              I'm a Technical Project Lead with Little Bear Labs. I work with growth-stage startups to ship code and scale teams.
             </p>
             <div
               class="mt-5 sm:mt-8 sm:flex sm:justify-center xl:justify-start"
             >
               <div class="rounded-md shadow">
-                <router-link
-                  to="/about-me"
+                <a
+                  href="https://www.linkedin.com/in/joelbrubaker/"
+                  target="_blank"
                   class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-blue-600 hover:bg-blue-500 focus:outline-none focus:border-blue-700 focus:shadow-outline-blue transition duration-150 ease-in-out md:py-3 md:text-lg md:px-8"
                 >
                   About Me
-                </router-link>
+                </a>
               </div>
               <div class="mt-3 sm:mt-0 sm:ml-3">
                 <a
